@@ -2,6 +2,7 @@
 ```python
 
 ```
+![Матричная клавиатура 4х4](/files/image1.png)
 ## Инициализация
 ```python
 kp = ClassKeypad(PCF8574(SoftI2C(sda=Pin(4), scl=Pin(5))))
