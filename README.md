@@ -1,6 +1,6 @@
 # esp32_micropython_4x4keypad
 Внешний вид и схема матричной клавиатуры представлен
-![Матричная клавиатура 4х4](/files/image1.png)
+![Матричная клавиатура 4х4](/files/image.png)
 ## Инициализация
 ```python
 kp = ClassKeypad(PCF8574(SoftI2C(sda=Pin(4), scl=Pin(5))))
