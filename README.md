@@ -1,4 +1,4 @@
-# esp32_micropython_4x4keypad
+# micropython_esp32_4x4keypad
 ## Внешний матричной клавиатуры:
 
 ![Матричная клавиатура 4х4](/files/image2.png)
